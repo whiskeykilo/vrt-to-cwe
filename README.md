@@ -4,7 +4,7 @@ A script to  convert [Vulnerability Rating Taxonomy (VRT)](https://github.com/bu
 
 ## Overview
 
-This script reads an input CSV containing one column of VRT category identifiers (e.g., "cross_site_scripting_xss.stored.url_based"), fetches the latest VRT→CWE mapping and any deprecated-node updates from Bugcrowd’s VRT repository on GitHub, and downloads the latest CWE catalog from MITRE to resolve CWE IDs to names. The output CSV includes all original columns plus a new `CWE` column with a string of the first mapped CWE name (or blank if none).
+This script reads an input CSV containing one column of VRT category identifiers (ex: `cross_site_scripting_xss.stored.url_based`), fetches the latest VRT→CWE mapping and any deprecated-node updates from Bugcrowd’s VRT repository on GitHub, and downloads the latest CWE catalog from MITRE to resolve CWE IDs to names. The output CSV includes all original columns plus a new `CWE` column with a string of the first mapped CWE name (or blank if none).
 
 ### Use Case
 
