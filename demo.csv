@@ -1,8 +1,0 @@
-report_id,source,title,amount,bug_url,description,submitted_at,priority,target_name,hacker_email,weakness_name
-101,Bounty Program,Issue 1,500,https://bug1.com,Description 1,1/1/23,High,Target 1,hacker1@example.com,broken_authentication_and_session_management.failure_to_invalidate_session.on_password_change
-102,Bounty Program,Issue 2,1000,https://bug2.com,Description 2,1/2/23,Medium,Target 2,hacker2@example.com,sensitive_data_exposure.disclosure_of_secrets.for_publicly_accessible_asset
-103,Bounty Program,Issue 3,1500,https://bug3.com,Description 3,1/3/23,Low,Target 3,hacker3@example.com,other
-104,Bounty Program,Issue 4,2000,https://bug1.com,Description 4,1/4/23,High,Target 4,hacker1@example.com,server_security_misconfiguration.using_default_credentials
-105,Bounty Program,Issue 5,2500,https://bug2.com,Description 5,1/5/23,Medium,Target 5,hacker2@example.com,cross_site_scripting_xss.stored.url_based
-106,Bounty Program,Issue 6,3000,https://bug3.com,Description 6,1/6/23,Low,Target 6,hacker3@example.com,lack_of_binary_hardening
-107,Bounty Program,Issue 7,2000,https://bug3.com,Description 7,1/7/23,Low,Target 7,hacker3@example.com,broken_access_control.idor
