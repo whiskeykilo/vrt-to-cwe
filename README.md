@@ -1,4 +1,4 @@
-# vrt2cwe
+# VRT to CWE conversion
 
 A script to  convert [Vulnerability Rating Taxonomy (VRT)](https://github.com/bugcrowd/vulnerability-rating-taxonomy) categories to human-readable [Common Weakness Enumeration (CWE)](https://cwe.mitre.org/) names.
 
